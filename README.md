@@ -4,7 +4,7 @@
 ![arrows1-1](https://user-images.githubusercontent.com/56268264/143673266-15a43cf8-d5ca-4fd6-812c-20b363911034.png)
 
 #Why Should We Use TypeScript?
-TypeScript simplifies JavaScript code, making it easier to read and debug.
+> TypeScript simplifies JavaScript code, making it easier to read and debug.
 TypeScript is open source.
 TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
 TypeScript makes code easier to read and understand.
@@ -25,4 +25,4 @@ Functions with optional parameters.
 Functions with REST parameters.
 Generics support.
 Modules support.
-For more information read [here(https://dzone.com/articles/what-is-typescript-and-why-use-it)]
+For more information read [here](https://dzone.com/articles/what-is-typescript-and-why-use-it)
