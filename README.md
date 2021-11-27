@@ -4,9 +4,9 @@
 ![arrows1-1](https://user-images.githubusercontent.com/56268264/143673266-15a43cf8-d5ca-4fd6-812c-20b363911034.png)
 
 #Why Should We Use TypeScript?
-> TypeScript simplifies JavaScript code, making it easier to read and debug.
-TypeScript is open source.
-TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
+- TypeScript simplifies JavaScript code, making it easier to read and debug.
+- TypeScript is open source.
+- TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
 TypeScript makes code easier to read and understand.
 With TypeScript, we can make a huge improvement over plain JavaScript.
 TypeScript gives us all the benefits of ES6 (ECMAScript 6), plus more productivity.
