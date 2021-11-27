@@ -3,7 +3,7 @@
 
 ![arrows1-1](https://user-images.githubusercontent.com/56268264/143673266-15a43cf8-d5ca-4fd6-812c-20b363911034.png)
 
-#Why Should We Use TypeScript?
+# Why Should We Use TypeScript?
 - TypeScript simplifies JavaScript code, making it easier to read and debug.
 - TypeScript is open source.
 - TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
@@ -20,7 +20,7 @@
 - Supports static typing.
 - TypeScript will save developers time.
 - TypeScript is a superset of ES3, ES5, and ES6.
-#Additional Features of TypeScript
+# Additional Features of TypeScript
 - Functions with optional parameters.
 - Functions with REST parameters.
 - Generics support.
